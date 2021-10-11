@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "Test-app-task-manager": {
+    "test-app-task-manager": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -102,5 +102,5 @@
       }
     }
   },
-  "defaultProject": "Test-app-task-manager"
+  "defaultProject": "test-app-task-manager"
 }
