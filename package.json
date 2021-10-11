@@ -1,5 +1,5 @@
 {
-  "name": "test-task-manager",
+  "name": "test-app-task-manager",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
